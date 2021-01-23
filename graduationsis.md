@@ -71,9 +71,9 @@ What have you learned from the study? この研究を通じて得られたもの
 
 
 卒論本文
-https://furuhashilab.github.io/www4taroaoyama/
+https://github.com/furuhashilab/2020gsc_Rantsuyama/blob/master/graduationsis.md
 
 
 リポジトリ
-https://github.com/furuhashilab/www4taroaoyama
+
 
