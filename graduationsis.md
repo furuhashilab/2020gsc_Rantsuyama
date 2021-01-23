@@ -75,5 +75,5 @@ https://github.com/furuhashilab/2020gsc_Rantsuyama/blob/master/graduationsis.md
 
 
 リポジトリ
-
+ https://github.com/furuhashilab/2020gsc_Rantsuyama
 
