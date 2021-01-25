@@ -114,6 +114,7 @@ googlemapより
 
 ## Reference/参考文献:
 卒業論文本文中に記載。
+https://docs.google.com/spreadsheets/d/1n0A3rIXHiUQ-ssfhNxUM22Qqw8T6yJtn9FhweLSwK-0/edit?usp=sharing
 
 ## Acknowledgements/謝辞:
 本研究を進めるにあたり裾野市をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
