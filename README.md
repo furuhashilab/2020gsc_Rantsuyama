@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1dTyJPjkGxn8eNxQpWmMqvqG70ZLx8_iDVBw0BzjP86A/
 
 [プレゼン用資料](https://docs.google.com/presentation/d/1rKhkzSD1c8DbXzVbvZCsq4PphCdlJZEhCI52xt0sOqs/edit?usp=sharing)
 
+[進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/24)
+
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1n0A3rIXHiUQ-ssfhNxUM22Qqw8T6yJtn9FhweLSwK-0/edit?usp=sharing)
