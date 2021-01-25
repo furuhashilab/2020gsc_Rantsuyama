@@ -65,13 +65,16 @@
 
 ## Results:
 今回は裾野市の住所、裾野市以下の名前、26の地域の中の茶畑という地域（〒410-1121）を対象に割合を求めました。
+
 <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652474-b36d8200-5efc-11eb-885e-fea74fb94a13.png">
 
 裾野市茶畑（googlemapより）
+
 ハイフン付きの番地のみ使用し、その中で割合を求めます。
 茶畑の中でもさらに、２５に分け、そのうちの１２個のそれぞれの割合と全体の割合を出します。
 
 <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652470-b23c5500-5efc-11eb-8eb9-aba345d62ee3.png">
+
 一致数割合
 
 結果、全体の一致割合は22％と予測に当てはまる数値が出ました。
