@@ -105,7 +105,7 @@ googlemapより
 # 本文
 
 
-
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652194-098df580-5efc-11eb-865f-c3cb3b16a125.png">
 
 卒論本文
 https://github.com/furuhashilab/2020gsc_Rantsuyama/blob/master/graduationsis.md
