@@ -113,4 +113,4 @@ https://github.com/furuhashilab/2020gsc_Rantsuyama/blob/master/graduationsis.md
 
 
 リポジトリ
-https://github.com/furuhashilab/sotsuron2020
+https://github.com/furuhashilab/2020gsc_Rantsuyama
