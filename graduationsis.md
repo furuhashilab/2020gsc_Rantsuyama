@@ -65,12 +65,15 @@
 
 ## Results:
 今回は裾野市の住所、裾野市以下の名前、26の地域の中の茶畑という地域（〒410-1121）を対象に割合を求めました。
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652474-b36d8200-5efc-11eb-885e-fea74fb94a13.png">
 
 裾野市茶畑（googlemapより）
 ハイフン付きの番地のみ使用し、その中で割合を求めます。
 茶畑の中でもさらに、２５に分け、そのうちの１２個のそれぞれの割合と全体の割合を出します。
 
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652470-b23c5500-5efc-11eb-8eb9-aba345d62ee3.png">
 一致数割合
+
 結果、全体の一致割合は22％と予測に当てはまる数値が出ました。
 さらにそれぞれの求めた割合を見ると、GCPs17が格段に低く(0.02)、その反対にGCPs25(0.52)は約半分も一致していました。
 
@@ -78,16 +81,26 @@
 ## Discussion:
 結果で一致割合の最小(GCPs17)/最大(GCPs25)であった地域の特徴を見つけるため、この二つの地域を実際に現地に行き、どのような場所であるか確認しました。
 <GCPs17>
+  
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652555-e31c8a00-5efc-11eb-8dc3-88cdee7ca042.jpg">
 
 googlemapより
 
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652552-df890300-5efc-11eb-9dde-a2f814269ebb.jpg">
+
 2021/01/23撮影
+
 写真から分かるように土地の大部分が畑であり、その中にポツンと家が建っている形でした。
 <GCPs25>
+  
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652543-d7c95e80-5efc-11eb-8dd7-16e48b73d859.jpg">
 
 googlemapより
 
+<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/40207128/105652546-dc8e1280-5efc-11eb-8385-08bdf0977318.jpg">
+
 2021/01/23撮影
+
 この地域は住宅街になっており、家が敷き詰めて建てられています。
 各地域の特徴より、予測通りに耕地面積の割合の高い地域は格段に地番と住所の一致数が少なくなることが分かりました。裾野市は耕地面積が74％と高いため、裾野市の全体で割合を求めた場合にも近い数値が出ることが予測されます。
 
